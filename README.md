@@ -1,4 +1,4 @@
-# Code Sync - A Realtime Code Editor
+# CodeBuddy - A Realtime Code Editor
 
 ![Preview Image](./preview.png)
 
