@@ -30,10 +30,6 @@ Code Sync is a collaborative, real-time code editor where users can seamlessly c
 -   🎨 Multiple themes for personalized coding experience
 -   🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time, enhancing the interactive experience of your project.
 
-## 🚀 Live Preview
-
-You can view the live preview of the project [here](https://codebuddy-live.vercel.app/).
-
 ## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
